@@ -1,4 +1,3 @@
 # powerbi_projects
 
-
-[Survey_Dashboard_PDF.pdf](https://github.com/meleakewubbie/powerbi_survey_project/files/10886702/Survey_Dashboard_PDF.pdf)
+![Survey_Dashboard_Image](https://user-images.githubusercontent.com/77419851/222844784-b9d436bd-9c37-45c9-888d-6805c1ba23ff.png)

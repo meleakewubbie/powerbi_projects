@@ -1,4 +1,4 @@
-# Data Survey Analysis
+# Data Survey Analysis Dashboard
 
 1. Utilized Power Query editor to clean, transform and prepare data obtained from a survey of 630 professionals from Twitter and LinkedIn in Excel format for analysis in Power BI. 
 2. Employed techniques such as replacing values, splitting columns by delimiter, and cleaning text information to improve the quality and usability of the data. 
